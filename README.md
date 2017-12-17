@@ -7,7 +7,7 @@ Language learning in a couple/group setting through a messenger.
 
 ## Problem
 The U.S. Census Bureau reported that 11.4 million married couple households, or 21 percent of all married-couple households in America in 2011, had at least one spouse born in another country. The number of international couples in a globalized 21st century is constantly raising.<br><br>
-21 century is a very fast-paced time. Everyone is busy. It’s hard to spare time for anything “extra”. Foreign language learning is a clear “extra”. It takes enormous amount of dedication to spare time and energy for that activity. That’s why language learning apps are so popular comparing to traditional face to face learning environments - the provide users with flexibility to learn language at the most convenient time and pace. But there are unfortunately no apps that allow to learn a language with a partner. It is usually the user and the program. When the initial motivation and excitement wear off people stop using language learning apps, because there’s noone to hold them accountable.<br><br>
+21st century is a very fast-paced time. Everyone is busy. It’s hard to spare time for anything “extra”. Foreign language learning is clearly an “extra”. It takes enormous amount of dedication to spare time and energy for that activity. That’s why language learning apps are so popular compared to traditional face to face learning environments. They provide users with flexibility to learn language at the most convenient time and pace. Unfortunately, there are no apps that allow end users to learn a language with a partner. It is usually the user and the program. When the initial motivation and excitement wear off, people stop using the language learning apps because there’s nothing to hold them accountable.<br><br>
 The research shows that if a couple takes on a certain activity together they are more likely to be more persistent/successful, so we suggest adding a language component into people’s daily digital behaviour — like messaging.
 
 ## Target Audience
@@ -23,7 +23,6 @@ Friends:
   <li>That want to learn a language collaboratively</li>
 </ul>
 
-
 ### User Stories
 <b>Jessica</b> is an American, who just took a year abroad and went travelling to Europe. She fell in love with Andre and they are serious about the future together. They still haven’t figured out where they will live or how will it all work out in the future. What Jessica is sure about is that she wants to learn French to understand Andre better, since that’s his mother tongue. She googles language learning options — both face to face and online and chooses Duolinguo since it’s the most popular product on the market. She uses it for some time, but finds it annoying that she need to screenshot every time she has a question and wants to ask Anrie, so she decides to look for an alternative, focusing on collaborative learning experience, that’s how she finds lovebirds. And that a perfect fit because she is learning the language in conjunction with her communication (messenger feature) to Andre, which brings them closer together.
 <br><br>
@@ -31,11 +30,9 @@ Friends:
 <br><br>
 <b>Jane and Nessy</b> are old friends. They were roommates in college and kept in touch through their entire life. They had kids at the same time and now 15 years later when they are off to college they both got too much free time on their hands. They decided to take on a new hobby — learn a language. Since both of them took a trip to Germany in their youth, they  decided to learn German.They taking a class in a local community college and their teacher suggests they search for apps to maximize their learning experience. Since their kids are far away and they mostly use messenger apps to communicate they feel like messaging is the mechanics they are most comfortable with. SO they google “messaging” and “language learning” and get to the lovebirds, download it and use it as a supplementary learning tool.
 
-
-
 ## Strategy
 
-### Site Objectives:
+Objectives:
 <ul>
   <li>Achieve functional proficiency in reading, and writing.</li>
   <li>Recognize culture-specific perspectives and values embedded in language behavior.</li>
@@ -43,13 +40,10 @@ Friends:
   <li>Produce organized coherent discourse in a written mode.</li>
 </ul>
 
-### Success Metrics
-*Outline how you will check that the goals for your site have been met*
-
-Make sure your program does something to measure the consider assessments as a part of your program. Here are a couple.
-
-* Pre assessments
-* Formative assessments
+Goal: 
+<ul>
+  <li>Learners will be able to communicate effectively in a foreign language and interact in a culturally appropriate manner with native speakers of that language.</li>
+</ul>
 
 ## Scope
 The functionality of the website will be located in language map plugin — the user would be able to use language map as a keyboard for typing in a message.
