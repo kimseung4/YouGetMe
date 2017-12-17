@@ -1,20 +1,24 @@
-# DESIGN Document (Template)
+# YouGetMe
 
-Write a design document where you explain your project. You should clearly explain the problem you're trying to solve. Be sure to describe the domain you're working with and the users you're trying to target. Remember that the point of your design document is that you can hand it off to any developer and theoretically they would be able to understand and build the program.
-
+YouGetMe is a messenger that allows language learning in a group setting. The responsibility placed on them by their peers holds them accountable for their learning behavior and persistence. YouGetMe provides a platform for the users to message each other using a special language learning keyboard. Words are elements of this keyboard and they are arranged according to the syntax (word order) of the target language. The product is dedicated to help elementary level language learners immediately use their language knowledge in a real-life setting. In the beginning they type in messages in their native tongue exploring how those would look like in target language, but the amount of scaffolding is being reduced with time and after certain amount of clicks users must be able to recognize words they choose in the target language. This mechanics can easily be incorporated in existing digital behaviors of people - like messaging with the partner or friends.
 
 ## Topic
-*What is the subject at hand?*
-*Which broader field(s) does this site apply to?*
+Language learning in a couple/group setting through a messenger.
 
 ## Problem
-*The U.S. Census Bureau reported that 11.4 million married-couple households, or 21 percent of all married-couple households in America in 2011, had at least one spouse born in another country. The number of international couples in a globalized 21st century is constantly raising.
-21 century is a very fast-paced time. Everyone is busy. It’s hard to spare time for anything “extra”. Foreign language learning is a clear “extra”. It takes enormous amount of dedication to spare time and energy for that activity. That’s why language learning apps are so popular comparing to traditional face to face learning environments - the provide users with flexibility to learn language at the most convenient time and pace. But there are unfortunately no apps that allow to learn a language with a partner. It is usually the user and the program. When the initial motivation and excitement wear off people stop using language learning apps, because there’s noone to hold them accountable.
+The U.S. Census Bureau reported that 11.4 million married-couple households, or 21 percent of all married-couple households in America in 2011, had at least one spouse born in another country. The number of international couples in a globalized 21st century is constantly raising.<br>
+21 century is a very fast-paced time. Everyone is busy. It’s hard to spare time for anything “extra”. Foreign language learning is a clear “extra”. It takes enormous amount of dedication to spare time and energy for that activity. That’s why language learning apps are so popular comparing to traditional face to face learning environments - the provide users with flexibility to learn language at the most convenient time and pace. But there are unfortunately no apps that allow to learn a language with a partner. It is usually the user and the program. When the initial motivation and excitement wear off people stop using language learning apps, because there’s noone to hold them accountable.<br>
 The research shows that if a couple takes on a certain activity together they are more likely to be more persistent/successful, so we suggest adding a language component into people’s daily digital behaviour - like messaging.
-*
 
 ## Target Audience
-*Who is your target audience? Describe in detail*
+Couples who are:
+In a long-distance relationship
+In a traditional relationship 
+With a different mother tongues
+<br>
+Friends:
+That want to learn a language collaboratively
+
 
 ### User Stories
 **Outline 2-3 user stories. Describe how they find out, engage and come back to your site. Provide rationale.**
