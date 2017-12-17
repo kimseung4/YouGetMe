@@ -11,13 +11,13 @@ The U.S. Census Bureau reported that 11.4 million married-couple households, or 
 The research shows that if a couple takes on a certain activity together they are more likely to be more persistent/successful, so we suggest adding a language component into people’s daily digital behaviour - like messaging.
 
 ## Target Audience
-Couples who are:
+Couples:
 <ul>
   <li>In a long-distance relationship</li>
   <li>In a traditional relationship</li> 
   <li>With a different mother tongues</li>
 </ul>
-<br><br>
+<br>
 Friends:
 <ul>
   <li>That want to learn a language collaboratively</li>
@@ -35,10 +35,13 @@ Friends:
 
 ## Strategy
 
-This section should describe objectives, goals and metrics.
-
 ### Site Objectives:
-*What do we want to get out of the site?*
+<ul>
+  <li>Achieve functional proficiency in reading, and writing.</li>
+  <li>Recognize culture-specific perspectives and values embedded in language behavior.</li>
+  <li>Decode, analyze, and interpret authentic texts of different genres.</li>
+  <li>Produce organized coherent discourse in a written mode.</li>
+</ul>
 
 ### Success Metrics
 *Outline how you will check that the goals for your site have been met*
@@ -49,10 +52,12 @@ Make sure your program does something to measure the consider assessments as a p
 * Formative assessments
 
 ## Scope
-Functional and Content Specifications
+The functionality of the website will be located in language map plugin - the user would be able to use language map as a keyboard for typing in a message.
 
 ## Structure
-Interaction design and information architecture
+Text window→ Keyboard→ Language map plugin
+Text window→ Games→ Language learning game(Kahoot, Duolinguo, )
+Text window---> Facetiming → ????WHAT MECAHNICS Text window --> Save to dictionary option
 
 ## Skeleton
 Interface, navigation, information design
