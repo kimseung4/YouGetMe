@@ -57,7 +57,7 @@ Text window→ Facetiming → ????WHAT MECAHNICS Text window → Save to diction
 ![yougetme](https://user-images.githubusercontent.com/25942653/34084999-7377e3d0-e357-11e7-8d67-3d5ebc70e63a.jpg)
 
 ## Prototype and User Tests
-Add any findings from your user tests
+![lovebirds_research](https://user-images.githubusercontent.com/25942653/34085015-b9f383dc-e357-11e7-808a-075949fb150e.png)
 
 ## Reflection
 Reflect on and articulate specific issues you had with your midterm. Elaborate on these issues and explain how what you learned from the midterm has impacted your design thinking and execution on the final project.
