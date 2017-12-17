@@ -54,7 +54,6 @@ Text window→ Games→ Language learning game(Kahoot, Duolinguo, )
 Text window→ Facetiming → ????WHAT MECAHNICS Text window → Save to dictionary option
 
 ## Skeleton
-![lovebirds wireframes](https://user-images.githubusercontent.com/25942653/31867239-b973cd24-b759-11e7-87de-0b65eebf1bdc.jpg)
 
 ## Prototype and User Tests
 Add any findings from your user tests
